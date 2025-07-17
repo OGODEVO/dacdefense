@@ -1,0 +1,28 @@
+# Telegram Bot
+python-telegram-bot
+
+# LangChain core
+langchain
+
+# Langflow (visual interface for LangChain)
+langflow
+
+# Ollama (local LLM backend)
+ollama
+
+# Chroma for memory/vector store (optional)
+chromadb
+
+# Cryptography module
+cryptography
+
+# Network packet logger
+scapy
+
+# FastAPI backend (optional)
+fastapi
+uvicorn
+
+# Utilities
+tqdm
+python-dotenv
